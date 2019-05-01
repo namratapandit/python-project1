@@ -16,6 +16,7 @@ main()
 
 
 def StrinConcatFun():
+    """" This function shows the string concatination doe using two variables"""
     str1 = "shashu"
     str2 = "namu"
     return "\n" + str1 + " " + str2
